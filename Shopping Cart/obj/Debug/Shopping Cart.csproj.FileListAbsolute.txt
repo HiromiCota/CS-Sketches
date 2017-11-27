@@ -1,0 +1,26 @@
+C:\Users\Niko\AppData\Local\Temporary Projects\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\ECC\218\Examples\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\ECC\218\Examples\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\ECC\218\Examples\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping Cart.csprojResolveAssemblyReference.cache
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping_Cart.AudioBooks.resources
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping_Cart.Cart.resources
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping_Cart.PrintBooks.resources
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping Cart.csproj.GenerateResource.Cache
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\ECC\218\Examples\Shopping Cart\obj\Debug\Shopping Cart.pdb
+C:\Temp\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Temp\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Temp\Shopping Cart\obj\Debug\Shopping Cart.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping Cart.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping Cart.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\bin\Debug\Shopping Cart.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\bin\Debug\Shopping Cart.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping Cart.csprojResolveAssemblyReference.cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping_Cart.AudioBooks.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping_Cart.Cart.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping_Cart.PrintBooks.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\Shopping Cart\obj\Debug\Shopping Cart.csproj.GenerateResource.Cache

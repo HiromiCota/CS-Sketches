@@ -1,0 +1,18 @@
+C:\Users\980453413\AppData\Local\Temporary Projects\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.exe.config
+\\zeus\profile$\980453413\my documents\visual studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.exe.config
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.exe.config
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.exe
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.pdb
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218_Project_2_Fuzzy_dice.FuzzyDice.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218_Project_2_Fuzzy_dice.Properties.Resources.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.csproj.GenerateResource.Cache
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.exe
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\bin\Debug\CS218-Project_2_Fuzzy_dice.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.csprojResolveAssemblyReference.cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218_Project_2_Fuzzy_dice.FuzzyDice.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218_Project_2_Fuzzy_dice.Properties.Resources.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218-Project_2_Fuzzy_dice\CS218-Project_2_Fuzzy_dice\obj\Debug\CS218-Project_2_Fuzzy_dice.csproj.GenerateResource.Cache

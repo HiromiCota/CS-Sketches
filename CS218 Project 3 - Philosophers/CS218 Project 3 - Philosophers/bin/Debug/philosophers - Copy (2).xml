@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+	<philosopher>
+		<name>Aristotle</name>
+		<born>-384</born>
+		<died>-322</died>
+		<nationality>Macedon</nationality>
+		<works>Categories, Metaphysics, Nicomachean Ethics,Politics</works>
+		<biography>Aristotle was a Greek philosopher and scientist, better known as the teacher of Alexander the Great. He was a student of Plato and is considered an important figure in Western Philosophy. Famous for his writings on physics, metaphysics, poetry, theater, music, logic, rhetoric, linguistics, politics, government, ethics, biology, and zoology, he is considered much ahead of his time.</biography>
+		<URL>http://www.thefamouspeople.com/profiles/aristotle-116.php#fC7iL6lVjUXVxZGL.99</URL>
+<image>/images/Artistotle.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Bertrand Russell</name>
+		<born>1872</born>
+		<died>1970</died>
+		<nationality>England</nationality>
+		<works>Principia Mathematica, A History of Western Philosophy, Why I Am Not a Christian</works>
+		<biography>His most influential contributions include his championing of logicism (the view that mathematics is in some important sense reducible to logic), his refining of Gottlob Frege’s predicate calculus (which still forms the basis of most contemporary systems of logic), his defense of neutral monism (the view that the world consists of just one type of substance which is neither exclusively mental nor exclusively physical), and his theories of definite descriptions, logical atomism and logical types.</biography>
+		<URL>http://plato.stanford.edu/entries/russell/</URL>
+<image>/images/BertrandRussell.png</image>
+	</philosopher>
+	<philosopher>
+		<name>Confucius</name>
+		<born>-551</born>
+		<died>-479</died>
+		<nationality>China</nationality>
+		<works>Analects, Meng-tzu, The Great Learning Ta Hsüeh, The Doctrine Of The Mean Chung Yung</works>
+		<biography>Confucius's philosophy focused on creating ethical models of family and public interaction, and setting educational standards.</biography>
+		<URL>http://www.biography.com/people/confucius-9254926</URL>
+<image>/images/Confucius.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Friedrich Nietzsche</name>
+		<born>1844</born>
+		<died>1900</died>
+		<nationality>Germany</nationality>
+		<works>The Birth of Tragedy, Thus Spoke Zarathustra, Beyond Good and Evil</works>
+		<biography>Famous for his rejection of religion with his quote "God is dead", Nietzsche encouraged self-improvement and iconoclasm.</biography>
+		<URL>http://www.biography.com/people/friedrich-nietzsche-9423452</URL>
+<image>/images/FriedrichNietzsche.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Henry David Thoreau</name>
+		<born>1817</born>
+		<died>1862</died>
+		<nationality>America</nationality>
+		<works>Walden, Civil Disobedience</works>
+		<biography>He is known for transcendentalism, civil disobedience and for his love for literature and nature.</biography>
+		<URL>http://www.thefamouspeople.com/profiles/henry-david-thoreau-1608.php</URL>
+<image>/images/HenryDavidThoreau.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Immanuel Kant</name>
+		<born>1724</born>
+		<died>1804</died>
+		<nationality>Germany</nationality>
+		<works>Critique of Pure Reason</works>
+		<biography>Centuries before neuroscience, Kant described how thought and reason worked, providing a moral framework.</biography>
+		<URL>http://www.biography.com/people/immanuel-kant-9360144</URL>
+<image>/images/ImmanuelKant.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Jacques Derrida </name>
+		<born>1930</born>
+		<died>2004</died>
+		<nationality>French Algeria</nationality>
+		<works>Post-structuralism, Writing and Difference, Structure, Sign, and Play in the Discourse of the Human Sciences</works>
+		<biography>Derrida derided a number of concepts long-held to be true in Western philosophy, asserting that context is inescapable, and idealogies contain implicit assumptions that inherently restrict a full examination of ideas.</biography>
+		<URL>https://en.wikipedia.org/wiki/Jacques_Derrida</URL>
+<image>/images/JacquesDerrida.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Jean-Paul Sartre</name>
+		<born>1905</born>
+		<died>1980</died>
+		<nationality>France</nationality>
+		<works>Being and Nothingness, The Stranger, Existentialism</works>
+		<biography>An important figure to Existentialism, Sartre provided a highly critical lens for the human condition.</biography>
+		<URL>http://www.biography.com/people/jean-paul-sartre-9472219</URL>
+<image>/images/Jean-PaulSartre.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>John Locke</name>
+		<born>1632</born>
+		<died>1704</died>
+		<nationality>England</nationality>
+		<works>Two Treatises of Government, An Essay Concerning Human Understanding</works>
+		<biography>Highly influential in English politics, Locke was one of the founders of the Whig Party, staunch allies of the Monarchy.</biography>
+		<URL>http://www.biography.com/people/john-locke-9384544</URL>
+<image>/images/JohnLocke.png</image>
+	</philosopher>
+	<philosopher>
+		<name>Karl Marx</name>
+		<born>1818</born>
+		<died>1883</died>
+		<nationality>Germany</nationality>
+		<works>Das Kapital</works>
+		<biography>Marx has been labeled as a “revolutionary socialist” for his belief in what has been called dictatorship of the proletariat. In addition to espousing his own philosophies, he was also a sociologist, economist, journalist, and historian.</biography>
+		<URL>http://www.historyguide.org/intellect/marx.HTML</URL>
+<image>/images/KarlMarx.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Martin Heidegger</name>
+		<born>1889</born>
+		<died>1976</died>
+		<nationality>Germany</nationality>
+		<works>Being and Time</works>
+		<biography>Famous for his concept of Dasein (existence as an action) and Hermaneutics, Heidegger reexamined the construction of knowledge.</biography>
+		<URL>https://en.wikipedia.org/wiki/Martin_Heidegger</URL>
+<image>/images/MartinHeidegger.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Michel Foucault</name>
+		<born>1926</born>
+		<died>1984</died>
+		<nationality>France</nationality>
+		<works>The History of Sexuality, Discipline and Punish</works>
+		<biography>Foucault demonstrated the role that penal systems have played in Western society, as well as the consequences of sexual repression on society and discourse.</biography>
+		<URL>https://en.wikipedia.org/wiki/Michel_Foucault</URL>
+<image>/images/MichelFoucault.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Mikhail Bakhtin</name>
+		<born>1895</born>
+		<died>1975</died>
+		<nationality>Russia</nationality>
+		<works>Dialogic Imagination, Speech Genres</works>
+		<biography>Although Bakhtin was not well known to the West until the fall of the Berlin Wall, his works have been influential among scholars for their impact on the nature of meaning and its construction, demonstrating the importance of context and intertextuality to any discourse.</biography>
+		<URL>https://en.wikipedia.org/wiki/Mikhail_Bakhtin</URL>
+<image>/images/MikhailBahktin.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Noam Chomsky</name>
+		<born>1928</born>
+		<died>2016</died>
+		<nationality>America</nationality>
+		<works>Universal Grammar, The Responsibility of Intellectuals</works>
+		<biography>Chiefly known of his contributions to the field of linguistics, Chomsky posited the concept of Universal Grammar and a formalized definition of language. He has since become a staunch critic of governments and intellectuals, examining their failures to prevent tragedies and how they have become complicit in them.</biography>
+		<URL>http://www.biography.com/people/noam-chomsky-37616</URL>
+<image>/images/NoamChomsky.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Plato</name>
+		<born>-428</born>
+		<died>-348</died>
+		<nationality>Athens</nationality>
+		<works>Cratylus, Phaedo, Phaedrus, Republic, Symposium,Parmenides</works>
+		<biography>Plato was always concerned with the fundamental philosophical problem of working out a theory of the art of living and knowing. His goal was to show the rational relationship between the soul, the state, and the cosmos.</biography>
+		<URL>http://www.iep.utm.edu/plato/</URL>
+<image>/images/Plato.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>René Descartes</name>
+		<born>1596</born>
+		<died>1650</died>
+		<nationality>France</nationality>
+		<works>The Word, Discourse on the Method, Principles of Philosophy</works>
+		<biography>He is famous for having made an important connection between geometry and algebra and for having promoted a new conception of matter, which allowed for the accounting of physical phenomena by way of mechanical explanations.</biography>
+		<URL>http://plato.stanford.edu/entries/descartes-works/</URL>
+<image>/images/ReneDescartes.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Socrates</name>
+		<born>-469</born>
+		<died>-399</died>
+		<nationality>Athens</nationality>
+		<works>Dialog by Plato</works>
+		<biography>The field of ethics was the specialty of Socrates and introduced a concept that has been dubbed as elenchus, or the Socratic method. He contributed much to the field of logic and epistemology.</biography>
+		<URL>http://www.biography.com/people/socrates-9488126</URL>
+<image>/images/Socrates.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Syed Ahmad Khan</name>
+		<born>1817</born>
+		<died>1898</died>
+		<nationality>India</nationality>
+		<works>The Causes of the Indian Revolt, The Life of Muhammad</works>
+		<biography>He was deeply devoted to the cause of education and believed that widespread education was the only way to enlighten the masses. A distinguished scholar, he was a progressive thinker who played a major role in promoting social, scientific, and economic development of Indian Muslims.</biography>
+		<URL>http://www.thefamouspeople.com/profiles/sir-syed-ahmad-khan-5492.php#U21PEvGkZkivXoHU.99</URL>
+<image>/images/SyedAhmedKhan.jpg</image>
+	</philosopher>
+	<philosopher>
+		<name>Voltaire</name>
+		<born>1694</born>
+		<died>1775</died>
+		<nationality>France</nationality>
+		<works>Plato’s Dream and Micromégas and Candide</works>
+		<biography>Voltaire was an advocate of some of the most basic freedoms, he believed in the freedom of expression, religion and voiced this through his witty writing. One of his favorite targets was the Catholic church.</biography>
+		<URL>http://www.biography.com/people/voltaire-9520178</URL>
+<image>/images/Voltaire.jpg</image>
+	</philosopher>
+</container>

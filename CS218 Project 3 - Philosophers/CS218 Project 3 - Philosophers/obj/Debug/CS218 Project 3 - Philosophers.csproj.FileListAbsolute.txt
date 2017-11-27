@@ -1,0 +1,44 @@
+C:\Users\980453413\AppData\Local\Temporary Projects\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe.config
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe.config
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csprojResolveAssemblyReference.cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.LearnPhilosophy.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.Properties.Resources.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csproj.GenerateResource.Cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.pdb
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe.config
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.exe
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.pdb
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.pdb
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.LearnPhilosophy.resources
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csproj.GenerateResource.Cache
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe.config
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.exe
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.pdb
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.pdb
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csprojResolveAssemblyReference.cache
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.AddPhilosopher.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.EditPhilosopher.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.LearnPhilosophy.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.Properties.Resources.resources
+C:\Users\evil_\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.AddPhilosopher.resources
+D:\Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.EditPhilosopher.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe.config
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.exe
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\bin\Debug\CS218 Project 3 - Philosophers.pdb
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csprojResolveAssemblyReference.cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.AddPhilosopher.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.EditPhilosopher.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.LearnPhilosophy.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.Properties.Resources.resources
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218 Project 3 - Philosophers.csproj.GenerateResource.Cache
+\\zeus\profile$\980453413\My Documents\Visual Studio 2015\Projects\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\CS218 Project 3 - Philosophers\obj\Debug\CS218_Project_3___Philosophers.Resource1.resources
